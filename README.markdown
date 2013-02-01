@@ -26,3 +26,4 @@ How to use the dark sidebar (mac):
 	Enjoy your new sidebar colors!
 
 	If you want different colors for your sidebar, simply open the new "Default.sublime-theme" file in a text editor and edit the colors. Comments in the code explains where you need to change the colors.
+	
